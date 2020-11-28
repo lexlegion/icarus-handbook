@@ -128,7 +128,7 @@ Examples:
 
 Please see the protocol (currently in draft) for further details.
 
-### Geographical locations in the physical world
+### IRL
 Any location in the real world can be marked ("Angel bombed"?) by a legionnaire as a sign to others that there is work to be done here for the legion. Please use the angels supplied by Yesod for the physical tagging, or create your own to tell others that you are shining some light on a special situation!
 
 ## Misc
